@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+/* Design tokens — portfolio palette */
+@theme {
+  --color-showcase-bg: #0f172a;
+  --color-showcase-card: #1e293b;
+  --color-showcase-accent: #38bdf8;
+  --color-showcase-accent-2: #8b5cf6;
+  --color-showcase-text: #f8fafc;
+  --color-showcase-muted: #cbd5e1;
+  --color-showcase-border: #334155;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-showcase-bg);
+  color: var(--color-showcase-text);
+}
