@@ -14,7 +14,8 @@ export default function ProjectSection({ title, subtitle, projects, sectionId })
         <div className="mb-8 flex flex-col gap-2 sm:mb-10">
           <div className="flex items-center gap-3">
             <span
-              className="h-2 w-2 rounded-full bg-gradient-to-br from-showcase-accent to-showcase-accent-2 shadow-[0_0_12px_rgba(56,189,248,0.6)]"
+              className="h-2 w-2 rounded-full bg-gradient-to-br from-showcase-accent
+            to-showcase-accent-2 shadow-[0_0_12px_rgba(56,189,248,0.6)]"
               aria-hidden
             />
             <h2
