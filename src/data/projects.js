@@ -29,6 +29,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80',
     gradient: 'from-showcase-accent-2/25 to-showcase-accent/20',
   },
+
   {
     id: 'fe-3',
     category: 'frontend',
@@ -42,6 +43,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1504608524841-42fe6f032043?w=800&q=80',
     gradient: 'from-showcase-accent/25 to-showcase-accent-2/25',
   },
+  
   {
     id: 'fe-4',
     category: 'frontend',
