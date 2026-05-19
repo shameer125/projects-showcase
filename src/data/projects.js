@@ -43,7 +43,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1504608524841-42fe6f032043?w=800&q=80',
     gradient: 'from-showcase-accent/25 to-showcase-accent-2/25',
   },
-  
+
   {
     id: 'fe-4',
     category: 'frontend',
@@ -57,6 +57,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80',
     gradient: 'from-showcase-accent-2/30 to-showcase-accent/15',
   },
+
   {
     id: 'fe-5',
     category: 'frontend',
@@ -70,6 +71,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
     gradient: 'from-showcase-accent/20 to-showcase-accent-2/30',
   },
+  
   {
     id: 'fe-6',
     category: 'frontend',
